@@ -13,6 +13,8 @@ There are 5 modules,
 ### Introduction
 In the intro iPython notebook you'll find a walkthough of loading images, reshaping them, tensorflow basics like session, plotting a gaussian curve, convolution with a gaussian kernel, construction of a gabor filter and convolution with it. I also wrote code that shows how to use placeholders to do all of the above task. The image gabor filter output was produced by a convolution of skimage.data.camera with the said gabor kernel.
 
+![Alt text](/Introduction/Gabor\ filter\ output.png?raw=true "Optional Title")
+
 In the homework part, we collect 100 images, reshape them to the same size, find their mean and produce more convolutions.
 
 #### To be updated ...
