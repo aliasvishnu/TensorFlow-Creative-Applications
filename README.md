@@ -19,7 +19,7 @@ In the homework part, we collect 100 images, reshape them to the same size, find
 
 ### Training a network with TensorFlow
 In this folder, we have two iPython notebooks. In [Sine wave predictor.ipynb] I implement a simple perceptron to approximate a noisy sine
-function. You can see how to generaly a simple noisy sine wave, use placeholder, to use obtain training parameters like weights and biases.
+function. You can see how to generate a simple noisy sine wave, use placeholder, to use obtain training parameters like weights and biases.
 The network learns in its capacity (linear model) the sine wave and obtains an MAE of ~0.42.
 
 #### To be continued ..
